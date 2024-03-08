@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007481121899",
+    "project_id": "storkph-staging-a7a08",
+    "storage_bucket": "storkph-staging-a7a08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007481121899:android:84867a46778e241dc9152e",
+        "android_client_info": {
+          "package_name": "ph.stork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007481121899-a00sdttb5rkd58rbsr9sel7nd5jip8hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA53iLkeGKfz1HLk1vlAtb7Qn7eNPAiszU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007481121899-a00sdttb5rkd58rbsr9sel7nd5jip8hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

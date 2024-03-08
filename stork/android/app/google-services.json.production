@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "49771441940",
+    "project_id": "storkph-297500",
+    "storage_bucket": "storkph-297500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49771441940:android:dcbc1a9101ce8f82bb9c01",
+        "android_client_info": {
+          "package_name": "com.stork.ph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49771441940-m9jtjkdmnv71s16o9in20op0frmt6ij8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYPEgsdjczkKvVhnokdPmM1ibSSGEDDCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49771441940-m9jtjkdmnv71s16o9in20op0frmt6ij8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49771441940-2drdt0tlagc09efhjcv4uq261ul0kskb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nopstation.nopcartFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

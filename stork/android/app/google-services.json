@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "49771441940",
+    "project_id": "storkph-297500",
+    "storage_bucket": "storkph-297500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49771441940:android:dcbc1a9101ce8f82bb9c01",
+        "android_client_info": {
+          "package_name": "com.stork.ph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49771441940-e34vvqv9ph9sktvq7p4h203mck194tlb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stork.ph",
+            "certificate_hash": "277eb186b80f2fc87ae8d9492303e20554967f4e"
+          }
+        },
+        {
+          "client_id": "49771441940-jv9ce5fi8m26i6pqlpufa3movnp8nbse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stork.ph",
+            "certificate_hash": "c7e8f17a64b5aa577a67db66bfa753eaaac64dce"
+          }
+        },
+        {
+          "client_id": "49771441940-m9jtjkdmnv71s16o9in20op0frmt6ij8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYPEgsdjczkKvVhnokdPmM1ibSSGEDDCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49771441940-m9jtjkdmnv71s16o9in20op0frmt6ij8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49771441940-2drdt0tlagc09efhjcv4uq261ul0kskb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nopstation.nopcartFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49771441940:android:ea2dc5924abcec50bb9c01",
+        "android_client_info": {
+          "package_name": "ph.stork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49771441940-da70gor1pnthavbjjfu9pf8bdvkucfp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ph.stork",
+            "certificate_hash": "c7e8f17a64b5aa577a67db66bfa753eaaac64dce"
+          }
+        },
+        {
+          "client_id": "49771441940-facfer1s5ug7lij3j4i16fu9hcu88shk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ph.stork",
+            "certificate_hash": "277eb186b80f2fc87ae8d9492303e20554967f4e"
+          }
+        },
+        {
+          "client_id": "49771441940-m9jtjkdmnv71s16o9in20op0frmt6ij8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYPEgsdjczkKvVhnokdPmM1ibSSGEDDCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49771441940-m9jtjkdmnv71s16o9in20op0frmt6ij8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49771441940-2drdt0tlagc09efhjcv4uq261ul0kskb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nopstation.nopcartFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
