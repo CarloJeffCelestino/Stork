@@ -1,12 +1,5 @@
 Publish Instructions:
-change site_url
-    (Production) https://admin.stork.ph
-    (Staging) https://storkph-staging.azurewebsites.net
 
-
-change firebase reference
-    (Production) flutterfire configure --project=storkph-297500
-    (Staging) flutterfire configure --project=storkph-staging-a7a08
 
 build
     flutter build apk
